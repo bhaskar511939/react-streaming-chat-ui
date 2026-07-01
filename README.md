@@ -139,7 +139,7 @@ data: {"type":"done","stage":"end","message":""}
 
 This UI is designed to work out of the box with **langgraph-skeleton** — a reference LangGraph SSE backend that implements exactly the event format above.
 
-- [langgraph-skeleton](https://github.com/bhaskararaorebba/langgraph-skeleton) — FastAPI + LangGraph SSE backend boilerplate
+- [langgraph-boilerplate-kit](https://github.com/bhaskar511939/langgraph-boilerplate-kit) — FastAPI + LangGraph SSE backend boilerplate
 
 ---
 
