@@ -13,6 +13,13 @@ Dark theme · Real-time token streaming · Tool call indicators · Multi-model s
 
 [Screenshot coming soon]
 
+
+## Demo
+
+Watch the local demo video:
+
+[Demo.mov](./Demo.mov)
+
 ---
 
 ## Features
